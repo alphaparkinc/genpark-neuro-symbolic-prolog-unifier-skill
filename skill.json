@@ -1,0 +1,15 @@
+{
+  "name": "genpark-neuro-symbolic-prolog-unifier-skill",
+  "version": "1.0.0",
+  "description": "First-Order Logic Robinson unifier and SLD-resolution proof generator bridging neuro-symbolic reasoning with symbolic substitution trees.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "neuro-symbolic",
+    "robinson-unification",
+    "prolog",
+    "symbolic-ai"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
